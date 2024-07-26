@@ -11,7 +11,7 @@ numpy==1.26.2
 prompt-toolkit==3.0.43
 sentence-transformers==2.2.2
 tokenizers==0.15.0
-torch==2.1.2
+torch==2.2.0
 torchvision==0.16.2
 tqdm==4.66.1
 transformers==4.36.2
